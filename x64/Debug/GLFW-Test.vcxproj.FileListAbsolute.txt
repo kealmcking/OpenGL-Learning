@@ -1,0 +1,2 @@
+C:\Users\kealm\Documents\Programming\Graphics\OpenGL\TestProject\GLFW-Test\x64\Debug\GLFW-Test.exe
+C:\Users\kealm\Documents\Programming\Graphics\OpenGL\TestProject\OpenGL-Learning\x64\Debug\GLFW-Test.exe
